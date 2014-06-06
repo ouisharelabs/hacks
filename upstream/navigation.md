@@ -24,6 +24,7 @@
 [Examples](examples.md)
 [Download](download.md)
 [Contribute](contribute/index.md)
+[Blog](blog.md)
 [Forum](forum.md)
 
 
@@ -35,19 +36,6 @@
 
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
-
-<script>
-$(document).ready(function() {
-  $.md.stage('all_ready').subscribe(function (done) {
-    var warning="";
-    warning+="ATTENTION: This is the unstable MDwiki website. For documentation of the latest stable ";
-    warning+="MDwiki please see <a href='http://www.mdwiki.info'>the stable documentation.</a>";
-
-    $('#md-content').prepend($('<div class="alert alert-danger">' + warning + '</div>'));
-    done();
-  });
-});
-</script>
 
 <script type="text/javascript">
 
@@ -62,4 +50,3 @@ $(document).ready(function() {
   })();
 
 </script>
-
