@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "",
+    "additionalFooterText": "CC0 1.0 2014 [OuiShare Labs](http://labs.ouishare.net)",
     "anchorCharacter": "&#x2693;",
-    "title": "MDwiki - Markdown based wiki done 100% on the client via javascript"
+    "title": "OuiShare Labs Camp - Hacking the collective economy"
 }
