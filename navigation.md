@@ -1,4 +1,4 @@
-# [OuiShare Labs](http://labs.ouishare.net) Hacks
+# OuiShare Labs Hacks
 
 [Overview](index.md)
 
@@ -18,6 +18,5 @@
   * [fb](https://www.facebook.com/ouisharelabs)
   * [fb g](https://www.facebook.com/groups/OuiShare.Labs/)
   * [g+](https://plus.google.com/+ouisharelabs/posts)
-  - - - -
-  * # Friends
 
+[gimmick:theme](yeti)
