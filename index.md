@@ -1,6 +1,6 @@
 # OuiShare Labs Hacks
 
-Following the OuiShare Labs Camp in Paris 2014, the activities around Linked Resources and Distributed Social Networking continue at the fringe of Open Knowledge Fest 2014 in Berlin.
+Following the [OuiShare Labs Camp](http://lab.ouishare.net) in Paris 2014, the activities around **Linked Resources** and **Distributed Social Networking** continue at the fringe of [Open Knowledge Fest 2014](http://2014.okfestival.org/) in Berlin.
 
 ## Time and Space
 
@@ -16,5 +16,5 @@ Hint: Spreeacker, Wilhelmine-Gemberg-Weg, 10179 Berlin-Mitte
 * Hyperdata
 * Linked Open Data
 * Community Building
-* Research on distributed action
-* Exiting proprietary social networks
+* Research on intentionally distributed action
+* Leaving proprietary social networks
