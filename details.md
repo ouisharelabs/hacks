@@ -10,11 +10,19 @@ The World Wide Web Consortium (W3C) is running community processes around the fi
 Hyperdata<br />
 The provenance of anything shared will ideally be found with dynamically interlinked, openly updated datasets that represent our *liveworlds*. Therefore the creation of public repositories and collective ontology design principles has to be fostered.<br />&nbsp;
 * **Resource sharing**
-needs + offers, i.e. *nutrition, accomodation, transportation*<br />
+Needs + Offers, i.e. *nutrition, accomodation, transportation*<br />
 Linking the needs and offers from people within a relationship of trust helps in promoting economic activity, that does not rely on the money system. Think of a *Gift Economy*. Validation and distribution of actual overlappings becomes an important part of those [Organized Networks](http://nedrossiter.org/?p=371).<br />&nbsp;
-* **Community Building** : Harmonious Hackathons
-* **Research** : intentional, distributed action
-* **Open Source** : Leaving proprietary social networks
+* **Community Building**
+Harmonious Hackathons<br />
+Building on [ideas from OuiShareFest](https://edgeryders.eu/nadias-notes-from-ouisharefest), a [Networking the networks](https://hackpad.com/Network-of-Networks-session-follow-up-YEfYiLeACdG) group is investigating methodologies for hack events with sustaining impact and long-term engagement, like [Banana Budapest](https://hackpad.com/Banana-in-Place-ECyuFM9OWqE).<br />&nbsp;
+* **Research**
+intentional, distributed action<br />
+As a think tank for transhumanistic self-organization and socio-economic innovation, we have to reflect on the performative underpinnings of our endeavours. With help from Post-Colonial Epistemologies, a little Philosophy of Mind and Social Psychology, theories of cooperation can be established and reiterated.<br />&nbsp;
+* **Open Source**
+Leaving proprietary social networks<br />
+One of the main drives for our activities is the discontent with existing commercial solutions to Internet communication. We believe approaches that instead involve many providing parties can lead to clearer representations of information flows and thus more significant exchange.
+
+---
 
 ## Open Knowledge Fest
 
