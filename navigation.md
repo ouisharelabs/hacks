@@ -27,13 +27,14 @@
 
   * # Related
   * [OKFestival 2014](http://2014.okfestival.org/)
-  * #Edgeryders
-  * #&share
-  * #MMM
-  * #liv.io
-  * #allmende.io
-  * #gatesense
-  * #W3C
+  * [W3C](https://github.com/e14n/pump.io/issues/1#issuecomment-45083815)
+  * [Digital Social Innovation](http://digitalsocial.eu)
+  * [Edgeryders](https://edgeryders.eu/page/home-mb-ano)
+  * [MMM](http://14mmm.org/)
+  * [allmende.io](http://allmende.io/)
+  * [&share](http://signup.andshare.co/)
+  * [liv.io](http://liv.io/)
+  * [GateSense](http://gatesense.com/)
   - - - -
   * [This pages' source](https://github.com/ouisharelabs/hacks)
 
