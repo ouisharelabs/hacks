@@ -1,6 +1,10 @@
 # OuiShare Labs Hacks
 
-Following the [OuiShare Labs Camp](http://lab.ouishare.net) in Paris 2014, the activities around **Linked Resources** and **Distributed Social Networking** continue at the fringe of [Open Knowledge Fest 2014](http://2014.okfestival.org/) in Berlin.
+*Are you curious about the so-called sharing economy? Do you sometimes wonder how new institutions of exchange will be shaped? Would you like to meet another European network of networks, investigating communication tools for a new millennium?*
+
+Following the [OuiShare Labs Camp](http://lab.ouishare.net) in Paris 2014, our activities around **Linked Resources** and **Distributed Social Networking** continue at the fringe of [Open Knowledge Fest 2014](http://2014.okfestival.org/) in Berlin.
+
+> Come and discuss your opinion on valuable hacks for mutual sharing.
 
 ## Time and Space
 

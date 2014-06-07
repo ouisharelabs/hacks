@@ -6,13 +6,15 @@
 
 [Venue](venue.md)
 
-[Networking the Networks]()
+[About]()
 
   * [OuiShare](http://ouishare.net/en)
   - - - -
-  * [OuiShare Labs Camp 2014](http://lab.ouishare.net/)
-  * [OuiShare Labs GitHub](https://github.com/ouisharelabs)
-  * [OuiShare Labs Hackpads](https://ouisharelabs.hackpad.com/)
+  * # OuiShare Labs
+  * [Home page](http://labs.ouishare.net/)
+  * [Hackpads](https://ouisharelabs.hackpad.com/)
+  * [GitHub](https://github.com/ouisharelabs)
+  * [Camp 2014](http://lab.ouishare.net/)
   - - - -
   * # Social
   * [tw](https://twitter.com/OuiShareLabs)
@@ -20,6 +22,9 @@
   * [fb g](https://www.facebook.com/groups/OuiShare.Labs)
   * [g+](https://plus.google.com/+ouisharelabs)
   - - - -
+
+[Networking the Networks]()
+
   * # Related
   * [OKFestival 2014](http://2014.okfestival.org/)
   * #Edgeryders
