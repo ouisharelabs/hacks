@@ -4,17 +4,17 @@ Following the [OuiShare Labs Camp](http://lab.ouishare.net) in Paris 2014, the a
 
 ## Time and Space
 
-Note: **14.07.2014 : 10 - 18**
+Note: **14.07.2014** : **10 - 18**
 
 <iframe width='100%' height='200px' frameBorder='0' src='http://a.tiles.mapbox.com/v3/almereyda.map-2zlwyof0/attribution,share.html'></iframe>
 
-Hint: Spreeacker, Wilhelmine-Gemberg-Weg, 10179 Berlin-Mitte
+Hint: [**Spreeacker**](venue.md), Wilhelmine-Gemberg-Weg, 10179 Berlin-Mitte
 
 ## Topics
 
-* Federated Social Web
-* Hyperdata
-* Linked Open Data
-* Community Building
-* Research on intentionally distributed action
-* Leaving proprietary social networks
+* **Federated Social Web**
+* **Linked Open Data** : Hyperdata
+* **Resource sharing** : needs + offers, i.e. *nutrition, accomodation, transportation*
+* **Community Building** : Harmonious Hackathons
+* **Research** : intentional, distributed action
+* **Open Source** : Leaving proprietary social networks
