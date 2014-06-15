@@ -24,7 +24,7 @@ The provenance of anything shared will ideally be found with dynamically interli
 
 ### **Resource sharing**
 
-**Needs + Offers, i.e. *nutrition, accomodation, transportation***
+*Needs + Offers*, **i.e. nutrition, accomodation, transportation**
 
 Linking the needs and offers from people within a relationship of trust helps in promoting economic activity, that does not rely on the money system. Think of a *Gift Economy*. Validation and distribution of actual overlappings becomes an important part of those [Organized Networks](http://nedrossiter.org/?p=371).
 
