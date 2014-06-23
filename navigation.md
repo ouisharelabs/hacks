@@ -38,6 +38,6 @@
   - - - -
   * [This pages' source](https://github.com/ouisharelabs/hacks)
 
-[Attending](https://attending.io/events/ouishare-labs-hacks)
+[Attending](http://attending.io/events/ouishare-labs-hacks)
 
 [gimmick:theme](yeti)
