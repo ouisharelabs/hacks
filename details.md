@@ -64,6 +64,6 @@ OuiShare Labs Hacks is a fringe event to the Open Knowledge Festival 2014 in Ber
 
 &nbsp;
 
-<iframe src="http://timemapper.okfnlabs.org/anon/zcyaij-okfest-fringe-events-timemapper?embed=1#2" frameborder="0" style="border: none; max-width:960px; display:block; margin: 0 auto;" width="100%" height="780;"></iframe>
+<iframe src="http://timemapper.okfnlabs.org/anon/zcyaij-okfest-fringe-events-timemapper?embed=1#3" frameborder="0" style="border: none; max-width:960px; display:block; margin: 0 auto;" width="100%" height="780;"></iframe>
 
 &nbsp;
