@@ -22,3 +22,8 @@ Hint: [**Spreeacker**](venue.md), Wilhelmine-Gemberg-Weg, 10179 Berlin-Mitte
 * **Community Building** : Harmonious Hackathons
 * **Research** : intentional, distributed action
 * **Open Source** : Leaving proprietary social networks
+
+## GIT repositories
+
+* [plp-berlin-hacks](https://github.com/ouisharelabs/plp-berlin-hacks)
+
